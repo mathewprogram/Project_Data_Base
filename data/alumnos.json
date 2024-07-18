@@ -1,0 +1,41 @@
+[    
+    {
+        "idAlumno": 1,
+        "nombre": "Mihai",
+        "apellido": "Matei",
+        "estatura": 1.77,
+        "casado": true,
+        "direccion": {
+            "calle": "Maria de Zayas",
+            "numero": 1,
+            "ciudad": "Madrid"
+        },
+        "hobbies": ["Cine", "Deporte", "Ajedrez", "Lectura"]
+    },
+    {
+        "idAlumno": 2,
+        "nombre": "Lavinia",
+        "apellido": "Matei",
+        "estatura": 1.75,
+        "casado": true,
+        "direccion": {
+            "calle": "Maria de Zayas",
+            "numero": 1,
+            "ciudad": "Madrid"
+        },
+        "hobbies": ["Cine", "Viajar", "Relax", "Lectura"]
+    },
+    {
+        "idAlumno": 3,
+        "nombre": "Maria Jose",
+        "apellido": "Navarro",
+        "estatura": 1.75,
+        "casado": false,
+        "direccion": {
+            "calle": "Maria de la Ruta",
+            "numero": 13,
+            "ciudad": "Madrid"
+        },
+        "hobbies": ["Cine", "Viajar", "Relax", "Lectura"]
+    }
+]
